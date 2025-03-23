@@ -1,0 +1,12 @@
+{
+  "name": "homework_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node HW_6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
