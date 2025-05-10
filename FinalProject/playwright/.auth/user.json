@@ -1,0 +1,495 @@
+{
+  "cookies": [
+    {
+      "name": "sid",
+      "value": "NzRiZDI5OTJhZGEyOTVhZmM4Y2M3Y2E0N2RjNmVhYWM=|1746908266|83995a61a14f6ac19a1c15d46e8ee1996afe002c",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1781470066.580016,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "srv_menu_gender",
+      "value": "women",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lid",
+      "value": "CgXkIWgfu3JCM7dRCAjqAgA=",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470066.580071,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lmda_adBlocker",
+      "value": "0",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1349756270.1746910067",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1754686067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionId",
+      "value": "17469100672563704773",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1746911867,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lmda_site_version",
+      "value": "2025.04.28",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i",
+      "value": "i3/S+Jnu64Z0GAZW2oJj43a21r48cddr6Cy+cSw9Gh9fEqzX2h22Mj5dyhn6y3WTHcwwqfEiM0aJM9IjILZemkud3g0=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781470067.470387,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "3244845561746910067",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781470068.021709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "value": "5698550751746910067",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1778446067.470464,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gd_city",
+      "value": "%D0%B3.%20%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gd_aoid",
+      "value": "11928",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gd_aoid_reg",
+      "value": "3",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LMDA",
+      "value": "gd_lat=55.19301970604601:gd_long=30.20704367256399",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470067.498117,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmr_lvid",
+      "value": "a0f7db6a016c16a6af7065ea86195aaa",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1775681267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmr_lvidTS",
+      "value": "1746910067571",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1775681267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PVID",
+      "value": "22YpNb38qbIW00002d1FHKoW:::0-0-0-d3a1433-0-d3a1433:CAASEIrcVJCwYHTLC8td1OOl5uAaYCFL6RLz9Yt9DlYW1S7L_u_SpHDNWGXQR4mM_JHUcFYZX5aQW2fBBSUS62eNZcTsTpAuNu2hVUNM_tq1NUnb2lavqZBdI8h9t7mxiaPXCyVy5UPxzviENKTV5WjEri7lmQ",
+      "domain": "top-fwz1.mail.ru",
+      "path": "/",
+      "expires": 1778532467.624378,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VID",
+      "value": "22YpNb38qbIW00002d1FHKoW:::0-0-0-d3a1433-0-d3a1433:CAASEIrcVJCwYHTLC8td1OOl5uAaYCFL6RLz9Yt9DlYW1S7L_u_SpHDNWGXQR4mM_JHUcFYZX5aQW2fBBSUS62eNZcTsTpAuNu2hVUNM_tq1NUnb2lavqZBdI8h9t7mxiaPXCyVy5UPxzviENKTV5WjEri7lmQ",
+      "domain": ".mail.ru",
+      "path": "/",
+      "expires": 1778532467.62446,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_H1YVC5M7PK",
+      "value": "GS2.1.s1746910067$o1$g0$t1746910067$j0$l0$h0",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470067.691338,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1934986465.1746910068",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470067.691856,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cid",
+      "value": "APFHvXG-4E89kNmFFIwLtNg",
+      "domain": ".adriver.ru",
+      "path": "/",
+      "expires": 1781470068.09122,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1746910967.829855,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1746910068588989332",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1778446067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1746910068",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1778446067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_ses.c10f",
+      "value": "*",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1746911867,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.c10f",
+      "value": "f3d8269d-8b9d-46ac-bcef-9106a7914bb0.1746910068.1.1746910068..f59a187e-9ed6-47ce-9f79-c132317cdc6e..19d12648-80f7-4e37-badf-e5737e65232b.1746910067920.1",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1781470067.921501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "value": "544704931746910068",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "3244845561746910067",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781470068.021745,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2062270068.yrts.1746910068",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1778446068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1778446068,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1746982068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "value": "EigiTm90LkEvQnJhbmQiO3Y9Ijk5IiwgIkNocm9taXVtIjt2PSIxMzYiGgN4ODYiDTEzNi4wLjcxMDMuMjUqAj8wOgkiV2luZG93cyJCBjE1LjAuMEoCNjRSNyJOb3QuQS9CcmFuZCI7dj0iOTkuMC4wLjAiLCJDaHJvbWl1bSI7dj0iMTM2LjAuNzEwMy4yNSJg9Pb+wAZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/Bo82HCA==",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781470068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adrdel",
+      "value": "1746910068504",
+      "domain": ".www.lamoda.by",
+      "path": "/",
+      "expires": 1781470068.505237,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adrdel",
+      "value": "1746910068504",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470068.505442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adrcid",
+      "value": "APFHvXG-4E89kNmFFIwLtNg",
+      "domain": ".www.lamoda.by",
+      "path": "/",
+      "expires": 1781470068.506311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adrcid",
+      "value": "APFHvXG-4E89kNmFFIwLtNg",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470068.50671,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "acs_3",
+      "value": "%7B%22hash%22%3A%221aa3f9523ee6c2690cb34fc702d4143056487c0d%22%2C%22nst%22%3A1746996468566%2C%22sl%22%3A%7B%22224%22%3A1746910068566%2C%221228%22%3A1746910068566%7D%7D",
+      "domain": ".www.lamoda.by",
+      "path": "/",
+      "expires": 1781470068.568282,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "acs_3",
+      "value": "%7B%22hash%22%3A%221aa3f9523ee6c2690cb34fc702d4143056487c0d%22%2C%22nst%22%3A1746996468566%2C%22sl%22%3A%7B%22224%22%3A1746910068566%2C%221228%22%3A1746910068566%7D%7D",
+      "domain": ".lamoda.by",
+      "path": "/",
+      "expires": 1781470068.568402,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XCookiePolicyAcception",
+      "value": "true",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1778470068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XCookieNotifyWasShown",
+      "value": "true",
+      "domain": "www.lamoda.by",
+      "path": "/",
+      "expires": 1778470068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.lamoda.by",
+      "localStorage": [
+        {
+          "name": "_ym_retryReqs",
+          "value": "{}"
+        },
+        {
+          "name": "lmda:ws_count",
+          "value": "1"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_sp_post2.expires",
+          "value": "1809982068484"
+        },
+        {
+          "name": "lmda:ws_last",
+          "value": "1746910067129"
+        },
+        {
+          "name": "lmda:ws_pwa_pages",
+          "value": "0"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"creationTimeMs\":1746910067234},\"expires\":1754686067234}}"
+        },
+        {
+          "name": "tmr_lvid",
+          "value": "a0f7db6a016c16a6af7065ea86195aaa"
+        },
+        {
+          "name": "acs_3",
+          "value": "{\"hash\":\"1aa3f9523ee6c2690cb34fc702d4143056487c0d\",\"nst\":1746996468566,\"sl\":{\"224\":1746910068566,\"1228\":1746910068566}}"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_sp_post2",
+          "value": "[]"
+        },
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "adrdel",
+          "value": "1746910068504"
+        },
+        {
+          "name": "adrcid",
+          "value": "APFHvXG-4E89kNmFFIwLtNg"
+        },
+        {
+          "name": "tmr_lvidTS",
+          "value": "1746910067571"
+        },
+        {
+          "name": "lmda:search_count",
+          "value": "0"
+        },
+        {
+          "name": "_ym27405971:0_reqNum",
+          "value": "1"
+        },
+        {
+          "name": "_ym27405971_lsid",
+          "value": "211260210392"
+        },
+        {
+          "name": "tmr_reqNum",
+          "value": "2"
+        },
+        {
+          "name": "lmda:lid_state",
+          "value": "\"21E4050A72BB1F6851B7334202EA0808\""
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1746910068588989332\""
+        },
+        {
+          "name": "lmda:ws_pages",
+          "value": "0"
+        },
+        {
+          "name": "lmda:ws_last_utm",
+          "value": "\"\""
+        }
+      ]
+    }
+  ]
+}
